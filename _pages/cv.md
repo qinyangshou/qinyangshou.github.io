@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. of Biomedical Engineering in Shanghai Jiao Tong Univeristy, 2019
-* 
 * Ph.D in Biomedical Engineering in University of Southern California, 2024 (expected)
 
 Work experience
