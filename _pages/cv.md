@@ -14,7 +14,7 @@ Education
 * B.S. of Biomedical Engineering in Shanghai Jiao Tong Univeristy, 2019
 * 
 * Ph.D in Biomedical Engineering in University of Southern California, 2024 (expected)
-<a href=”javascript:window.open(‘http://www.google.com’,'_self’) “> open a link 1</a><br/>
+
 Work experience
 ======
 * Summer 2015: Research Assistant
