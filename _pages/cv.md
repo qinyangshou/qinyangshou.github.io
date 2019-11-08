@@ -37,7 +37,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include https://loft-lab.org/index-1.html#jjwang %}
   {% endfor %}</ul>
   
 Talks
