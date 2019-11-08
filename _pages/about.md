@@ -14,3 +14,5 @@ I'm currently a Ph.D student of Biomdical Engineering at University of Southern 
 I work in the Stevens Institute of Neuroimaging and Informatics (INI). My superviser is Danny JJ Wang, a professor and director of Lab of Functional MRI Technology. {% include People.htm %}
 My Research focus is on development of cutting-edge functional MRI sequences and reconstruction methods, as well as MRI-related clinical studies.
 
+..
+
