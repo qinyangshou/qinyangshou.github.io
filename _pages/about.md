@@ -16,5 +16,7 @@ I work in the Stevens Institute of Neuroimaging and Informatics (<a href="https:
 
 My Research focus is on development of cutting-edge functional MRI sequences and reconstruction methods, as well as MRI-related clinical studies.
 
-..
+--
+Recent news:
+2019-11-14 Stroke Paper was accepted for publication
 
