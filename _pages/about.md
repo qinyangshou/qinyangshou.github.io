@@ -18,5 +18,6 @@ My Research focus is on development of cutting-edge functional MRI sequences and
 
 --
 Recent news:
-2019-11-14 Stroke Paper was accepted for publication
+
+2019-11-14  Stroke Paper was accepted for publication
 
