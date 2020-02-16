@@ -2,14 +2,13 @@
 title: "Deep Learning Detection of Penumbral Tissue on Arterial Spin Labeling in Stroke "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the dection of penumbra regions in stroke patients with non-invasive ASL images. The accuracy of the detection reached above 90%.'
 date: 2019-12-31
 venue: 'Stroke'
-paperurl: 'http://academicpages.github.io/files/STROKEAHA.119.027457.pdf'
+paperurl: 'http://qinyangshou.github.io/files/STROKEAHA.119.027457.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the dection of penumbra regions in stroke patients with non-invasive ASL images. The accuracy of the detection reached above 90%.
 
-[Download paper here](http://academicpages.github.io/files/STROKEAHA.119.027457.pdf)
+[Download paper here](http://qinyangshou.github.io/files/STROKEAHA.119.027457.pdf)
 
 Recommended citation: Wang K, Shou Q, Ma S J, et al. Deep Learning Detection of Penumbral Tissue on Arterial Spin Labeling in Stroke[J]. Stroke, 2019: STROKEAHA. 119.027457.
