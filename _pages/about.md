@@ -6,7 +6,7 @@ subtitle: <a href='http://www.loft-lab.org'>Lab of functional MRI Technology(LOF
 
 profile:
   align: left #right
-  image: prof_pic.jpg
+  image: qinyangshou.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
