@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='http://www.loft-lan.org'>Lab of functional MRI Technology(LOFT)</a>. <a href='http://www.usc.edu'>University of Southern California</a>. 2025 Zonal Avenue, Los Angeles, California, 90033
 
 profile:
   align: left #right
