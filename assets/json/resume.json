@@ -27,6 +27,7 @@
   "education": [
     {
       "institution": "University of Southern California, Los Angeles, CA, United States",
+      "major": "Biomedical Engineering", 
       "lab": "Lab of Functional MRI Technology (LOFT)",
       "url": "https://www.loft-lab.org/",
       "area": "Magnetic Resonance Imaging(MRI), Arterial Spin Labeling(ASL), Deep Learning Denoising",
@@ -37,7 +38,8 @@
       "courses": []
     },
     {
-      "institution": "University of Southern California, Los Angeles, CA, United States",
+      "institution": "Shanghai Jiao Tong Univeristy, Shanghai, China",
+      "major": "Biomedical Engineering", 
       "startDate":"2015-09-01",
       "endDate":"2019-07-05",
       "studyType":"B.S."
