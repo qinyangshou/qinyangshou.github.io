@@ -26,10 +26,9 @@ social: true  # includes social icons at the bottom of the page
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-I am currently a Ph.D. candidate in Biomedical Engineering at University of Southern California. My supervisor is [Dr. Danny JJ Wang](https://viterbi.usc.edu/directory/faculty/Wang/Danny) and my research focus is in technical development of arterial spin labeling (ASL)and magnetic resonance imaging (MRI) and improving ASL with Deep learning techniques.
+I am currently a Ph.D. candidate in Biomedical Engineering at University of Southern California. My supervisor is [Dr. Danny JJ Wang](https://viterbi.usc.edu/directory/faculty/Wang/Danny) and my research focus is in technical development of arterial spin labeling (ASL) and magnetic resonance imaging (MRI) and improving ASL with Deep learning techniques.
 
-During my Ph.D. training, I learned skill of MRI sequence development (on Siemens IDEA platform, with C++ coding), image reconstruction and processing with MATLAB, as well as deep learning development using various data (especially on Keras and Pytorch platforms). I'm passionate in the field of AI applications in healthcare and medical imaging.
-
+During my Ph.D. training, I learned skill of MRI sequence development (on Siemens IDEA platform, with C++ coding), image reconstruction and processing with MATLAB, as well as deep learning development using various data (especially on Keras and Pytorch platforms). I'm passionate in the field of AI applications in healthcare and medical imaging. The projects I have done include segmentation for stroke penumbra area, ASL image denoising with Transformer, image generation with diffusion model. 
 
 For my hobbies, I love basketball :basketball: and tennis :tennis:. 
 
